@@ -23,7 +23,8 @@ Edit the site attributes in *_config.yml* and edit the various entries in *_incl
 
 ## Thanks 
 
-A lot of the work had been already done by the Joao. Many thanks to him :)
+A lot of the work had been already done by the Joao. Many thanks to him :smile:
+
 Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
 
 

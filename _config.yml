@@ -10,6 +10,8 @@ url: http://biomadeira.github.io/vitae
 author: Fábio Madeira
 
 # edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
 title: Chris Turner's Resume
 name: Chris Turner

@@ -1,0 +1,8 @@
+# OS X
+.DS_Store
+
+# Jekyll build
+/_site/
+
+#
+.idea/

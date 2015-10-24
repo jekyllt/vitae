@@ -1,0 +1,28 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+port: 4000
+safe: true
+url: http://biomadeira.github.io/vitae
+author: Fábio Madeira
+
+# edit this section with your information
+baseurl: /
+title: Chris Turner's Resume
+name: Chris Turner
+email: christurner@me.com
+email_full: mailto:youremail@me.com
+github: trending
+twitter: twitter
+tel: +44 7465 000000
+tel_full: tel:+447465000000
+google_maps: https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL
+address: 44 Perth Street
+postcode: EH3 5BL
+city: Edinburgh
+country: United Kingdom
+google_analytics: UA-47728743-1
+

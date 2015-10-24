@@ -13,7 +13,7 @@ hosted in [Github pages](https://pages.github.com/).
 
 ## Screenshots
 
-![resume page](https://raw.github.com/biomadeira/vitae/master/assets/images/vitae_screen.png)
+![resume page](https://raw.github.com/biomadeira/vitae/master/assets/images/vitae_theme_screen1.png)
 
 
 ## How to use it

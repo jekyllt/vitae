@@ -21,10 +21,10 @@ github: trending
 twitter: twitter
 tel: +44 0000 000000
 tel_full: tel:+440000000000
-google_maps: https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL
+google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address: 44 Perth Street
 postcode: EH3 5BL
 city: Edinburgh
 country: United Kingdom
-google_analytics: UA-47728743-1
+google_analytics: UA-69300817-1
 

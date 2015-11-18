@@ -3,6 +3,7 @@
 
 # Jekyll build
 /_site/
+.jekyll-metadata
 
 #
 .idea/

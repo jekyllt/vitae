@@ -1,8 +1,8 @@
-highlighter: pygments
-markdown: rdiscount
+highlighter: rouge
+markdown: kramdown
 rdiscount:
   extensions: [smart]
-permalink: /:title.html
+permalink: :title.html
 paginate: 5
 gems: [jekyll-paginate]
 port: 4000

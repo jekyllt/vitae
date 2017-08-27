@@ -7,29 +7,29 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+url: "http://kamranalinitb.github.io/vitae"
+author: Kamran Ali
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
+baseurl: ""
+title: Kamran Ali's Resume
+name: Kamran Ali
+email: kamranalinitb@gmail.com
+email_full: mailto:kamranalinitb@gmail.com
+#website: github.io/sustain
+website_full: https://kamranalinitb.github.io/
+github: kamranalinitb
+twitter: bornShrewd
+tel: +91 88003 11877
+tel_full: tel:+918800311877
+#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address: U66-14 Top Floor
+postcode: 122002
+city: Gugugram
+country: India
+#google_analytics: UA-69300817-1
 
 # needed for travis-ci build
-exclude: [vendor]
+#exclude: [vendor]

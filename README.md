@@ -4,4 +4,4 @@ My CV
 
 # Template
 
-[biomadeira/vitae] (https://github.com/biomadeira/vitae)
+[biomadeira/vitae](https://github.com/biomadeira/vitae)

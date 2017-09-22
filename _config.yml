@@ -2,12 +2,11 @@ highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
-permalink: :title.html
-paginate: 5
-gems: [jekyll-paginate]
+permalink: /:title/
+
 port: 4000
-safe: true
-url: "http://kamranalinitb.github.io/vitae"
+#safe: true
+url: "http://kamranali.in/vitae"
 author: Kamran Ali
 
 # edit this section with your information
@@ -19,7 +18,7 @@ name: Kamran Ali
 email: kamranalinitb@gmail.com
 email_full: mailto:kamranalinitb@gmail.com
 #website: github.io/sustain
-website_full: https://kamranalinitb.github.io/
+website_full: kamranali.in
 github: kamranalinitb
 twitter: bornShrewd
 #tel: 
@@ -29,6 +28,19 @@ address: U66-14 Top Floor
 postcode: 122002
 city: Gugugram
 country: India
+
+plugins: 
+  - jekyll-sitemap
+  
+compress_html:
+    clippings: all
+    comments: ["<!-- ", " -->"]
+    startings: [html, head, body]
+    endings: all
+    ignore:
+    envs: []
+    blanklines: false
+    profile: false
 #google_analytics: UA-69300817-1
 
 # needed for travis-ci build

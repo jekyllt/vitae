@@ -41,7 +41,5 @@ compress_html:
     envs: []
     blanklines: false
     profile: false
-#google_analytics: UA-69300817-1
 
-# needed for travis-ci build
-#exclude: [vendor]
+#google_analytics: UA-69300817-1

@@ -10,8 +10,7 @@ url: "http://kamranali.in/vitae"
 author: Kamran Ali
 
 # edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
-# for a normal use at the base of the server change it to "/"
+
 baseurl: ""
 title: Kamran Ali's Resume
 name: Kamran Ali

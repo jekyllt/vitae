@@ -6,7 +6,7 @@ permalink: /:title/
 
 port: 4000
 #safe: true
-url: "http://kamranali.in/vitae"
+url: "https://kamranali.in/vitae"
 author: Kamran Ali
 
 # edit this section with your information

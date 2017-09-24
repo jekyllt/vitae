@@ -42,4 +42,4 @@ compress_html:
     blanklines: false
     profile: false
 
-#google_analytics: UA-69300817-1
+google_analytics: UA-27634418-4

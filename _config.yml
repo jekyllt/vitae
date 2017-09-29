@@ -35,7 +35,6 @@ plugins:
 compress_html:
     clippings: all
     comments: ["<!-- ", " -->"]
-    startings: [html, head, body]
     endings: all
     ignore:
     envs: []

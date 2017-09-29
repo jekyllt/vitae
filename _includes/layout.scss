@@ -300,9 +300,6 @@ em {
 }
 
 @media print {
-    @page {
-        margin: 15mm;
-    }
 
     body {
         font-size: 14pt;

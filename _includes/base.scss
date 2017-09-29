@@ -194,8 +194,8 @@
 	input[type="reset"].full-width,
 	input[type="button"].full-width {
 		width: 100%;
-		padding-left: 0 !important;
-		padding-right: 0 !important;
+		padding-left: 0 ;
+		padding-right: 0 ;
 		text-align: center; }
 
 	/* Fix for odd Mozilla border & padding issues */
@@ -262,8 +262,8 @@
 
 /* #Misc
 ================================================== */
-	.remove-bottom { margin-bottom: 0 !important; }
-	.half-bottom { margin-bottom: 10px !important; }
-	.add-bottom { margin-bottom: 20px !important; }
+	.remove-bottom { margin-bottom: 0 ; }
+	.half-bottom { margin-bottom: 10px ; }
+	.add-bottom { margin-bottom: 20px ; }
 
 

@@ -1,0 +1,32 @@
+- comp: 'Expedia Inc.'
+  designations:
+    - title: 'Software Development Engineer I'
+      address: 'Gurugram, India'
+      time: 'March 2016 to Present'
+      projects:
+        - name: 'Partner Payments'
+          description: 'Provided RESTFul solution on spring boot by breaking monolithic C++ chunk into microservices. Working on API agreement between orchestrator and functionality distribution by channelizing already existing services and designing new end points.'
+        - name: 'Booking Stack Migration'
+          description: 'Breaking of Expedia booking stack into microservices. Worked on building orchestration layer including functional test suite, performance testing etc. Post shipment participated in traffic migration, statistical comparisons.'
+        - name: 'Cloud Migration'
+          description: 'With an aim of achieving elasticity and granular investment tracking in infrastructure, currently involved in the migration of services from the data center to AWS. Focused on containerized deployments and minimizing latencies in the entire stack as migration involves a hybrid stage of datacenter and cloud.'
+    - title: 'Associate Software Development Engineer'
+      address: 'Gurugram, India'
+      time: 'May 2014 to Feb 2016'
+      projects:
+        - name: 'Booking Search'
+          description: 'Provided solution to partners to search for booking in their hotel chain based on customer details through RESTFul API. This feature ranks top based on its usability. Delivered concept-to-completion web service in <7 months getting a live traffic of ~10TPS. Played crucial role in CI-CD pipeline, preparing build script and load testing.'
+        - name: 'Booking confirmation feature'
+          description: 'Extended Booking Search to add confirmation API, which acts as an acknowledgement of booking. Hence enables us to track that partners are aware of booking done in their hotel. Delivered from scratch in two weeks facing live traffic of ~1TPS'
+        - name: 'Reconciling Bookings'
+          description: 'Reduced call center volumes and manual work by providing RESTFul API enabling partners to edit bookings as per change in customer stay. Finalized the design and delivered MVP in ~2 months facing live traffic of ~5TPS.Later proposed and delivered RESET functionality, which nullify all changes that have been made on a booking. Thus helps in reverting back erroneous updates on the booking'
+- comp: 'Samsung R&D Institute India-Delhi (SRI –Delhi)'
+  designations:
+    - title: 'Software Engineer II'
+      address: 'Noida, India'
+      time: 'July 2012 to May 2014'
+      projects:
+        - name: 'SMART TV Web Engine Enhancement project'
+          description: 'This project includes checking app compatibilities while porting it to new display engine. I’ve studied the life cycle of Samsung Apps on Smart TV. While looking into crashes and provided solutions for it. Webkit is used as a display engine, Java script is used to build apps'
+        - name: 'Performance Analysis on Smart TV display'
+          description: 'This project consists of porting the library used under the GUI wrapper and investigates the performance metrics. We studied multiple GUI components that were used under the wrapper and finally provided the solution to the client using EFL.Initially GUI libraries that were used were Cairo and Pango, Which we have replaced with EFL'

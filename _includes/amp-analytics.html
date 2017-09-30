@@ -1,0 +1,18 @@
+<amp-analytics type="googleanalytics">
+<script type="application/json">
+{
+  "vars": {
+    "account": "{{ site.google_analytics }}"
+  },
+  "triggers": {
+    "default pageview": {
+      "on": "visible",
+      "request": "pageview",
+      "vars": {
+        "title": "{{site.title}}"
+      }
+    }
+  }
+}
+</script>
+</amp-analytics>

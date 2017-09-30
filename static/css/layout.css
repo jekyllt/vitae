@@ -62,9 +62,15 @@ section {
 }
 
 section > h1 {
-    font-size: 140%;
+    font-size: 160%;
     line-height: 120%;
     text-transform: uppercase;
+}
+
+section > h2 {
+    font-size: 140%;
+    font-weight: bold;
+    line-height: 120%;
 }
 
 article {
@@ -72,7 +78,15 @@ article {
 }
 
 article > header > h1 {
-    font-size: 112%;
+    font-size: 120%;
+    font-weight: bold;
+    line-height: 150%;
+    margin-bottom: 0;
+    color: inherit;
+}
+
+article > header > h2 {
+    font-size: 100%;
     font-weight: bold;
     line-height: 150%;
     margin-bottom: 0;

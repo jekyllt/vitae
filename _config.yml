@@ -7,29 +7,32 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+url: http://sahibyar.github.io/vitae
+author: Sahib Yar
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
+title: Sahib Yar's Resume
+name: Sahib Yar
+email: sahibyaar@hotmail.com
+email_full: mailto:sahibyaar@hotmail.com
+website: sahibyar.github.io
+website_full: https://sahibyar.github.io
+github: sahibyar
+linkedin: sahibyar
+youtube: user/sahibyaar
+skype: sahibyaar
+stackoverflow: users/2949645/sahib-yar
+tel: +92 336 6037321
+tel_full: tel:+923366037231
+google_maps: 'https://www.google.com.pk/maps/place/Abbasi+Business+Centre+Rawalpindi/@33.6519466,73.0718534,19z/data=!4m5!3m4!1s0x0:0x7cb026ddcaabd3a7!8m2!3d33.6516861!4d73.0719727'
+address: Stadium Road
 postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-google_analytics: UA-69300817-1
+city: Rawalpindi
+country: Pakistan
+#google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]

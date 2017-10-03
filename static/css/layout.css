@@ -125,6 +125,17 @@ em {
     color: rgb(100, 100, 100);
     /*margin-right: 6px;*/
 }
+.skill {
+    font-style: normal;
+    font-family: Courier New, Courier, monospace;
+    font-weight: bold;
+    color: rgba(18, 17, 17, 0.75);
+    text-decoration: underline;    
+}
+.fa-star, .fa-star-half-o, .fa-star-o {
+    color: #0080FF;
+}
+
 
 @media print {
     @page {

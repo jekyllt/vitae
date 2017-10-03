@@ -32,19 +32,20 @@
         </p>
         <address>
             <a href="{{ site.google_maps }}">
-                {{ site.address }}<br/>
-                {{ site.postcode }}<br/>
-                {{ site.city }}<br/>
+                {{ site.city }},<br/>
                 {{ site.country }}
             </a>
         </address>
         <p>
-            <a href="{{ site.website_full }}">{{ site.website }}</a><br/>
+            <a href="{{ site.website_full }}"><i class="fa fa-link"></i> {{ site.website }}</a><br/>
+            <a href="skype:{{ site.skype}}?call"><i class="fa fa-skype"></i> {{site.skype}}</a>
         </p>
         <p>
             <a href="{{ site.email_full }}">{{ site.email }}</a><br/>
-            <a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i> Github</a> /
-            <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter"></i> Twitter</a>
+            <a href="https://github.com/{{ site.github }}"><i class="fa fa-github"></i></a>&nbsp;
+            <a href="https://www.linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a>&nbsp;
+            <a href="http://stackoverflow.com/{{ site.stackoverflow }}"><i class="fa fa-stack-overflow"></i></a>&nbsp;
+            <a href="http://youtube.com/{{ site.youtube }}"><i class="fa fa-youtube-play"></i></a>
         </p>
     </header>
     <div class="thirteen columns clearfix">

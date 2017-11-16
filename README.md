@@ -23,14 +23,14 @@ hosted in [Github pages](https://pages.github.com/).
 Simply clone/fork this repository, and then run `jekyll serve` inside the directory.
 Edit the site attributes in *_config.yml* and edit the various entries in *_includes/*.
 
-## Issues and contributing 
+## Issues and contributing
 
-I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. If you run into any problems please log them on the [issue tracker](https://github.com/biomadeira/vitae/issues).
+I have tested this install with Ruby v2.4.2p198 (Mac OS RVM) and Jekyll v3.6.2. If you run into any problems please log them on the [issue tracker](https://github.com/biomadeira/vitae/issues).
 
 Feel free pull-request your patches and fixes.
 
 
-## Thanks 
+## Thanks
 
 A lot of the work had been already done by the Joao. Many thanks to him :smile:
 

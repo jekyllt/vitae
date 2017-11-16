@@ -32,10 +32,10 @@
         </p>
         <address>
             <a href="{{ site.google_maps }}">
-                {{ site.address }}<br/>
-                {{ site.postcode }}<br/>
-                {{ site.city }}<br/>
-                {{ site.country }}
+                {{ site.address.street }}<br/>
+                {{ site.address.postcode }}<br/>
+                {{ site.address.city }}<br/>
+                {{ site.address.country }}
             </a>
         </address>
         <p>
@@ -71,6 +71,6 @@
   ga('create', '{{ site.google_analytics }}', 'auto');
   ga('send', 'pageview');
 
-</script>	
+</script>
 </body>
 </html>

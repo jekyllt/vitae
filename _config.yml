@@ -4,7 +4,7 @@ rdiscount:
   extensions: [smart]
 permalink: :title.html
 paginate: 5
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 port: 4000
 safe: true
 url: http://biomadeira.github.io/vitae

@@ -1,7 +1,7 @@
 
 # Vitae
 
-[![Build Status](https://secure.travis-ci.org/myjekyll/vitae.png?branch=gh-pages)](http://travis-ci.org/myjekyll/vitae)
+[![Build Status](https://secure.travis-ci.org/myJekyll/vitae.png?branch=gh-pages)](http://travis-ci.org/myjekyll/vitae)
 
 Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
 Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely

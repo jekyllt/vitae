@@ -14,23 +14,25 @@ author: Fábio Madeira
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
+title: Marufa Akhter's Resume
+name: Marufa Akhter
+email: marufaripa.mr@gmail.com
+email_full: mailto:marufaripa.mr@gmail.com
+website: github.io/MarufaAkhter
+website_full: https://github.com/MarufaAkhter
 github: trending
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+tel: +46 736430829
+tel_full: tel:+46736430829
+google_maps: 
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
-google_analytics: UA-69300817-1
+  street: Flogstavagen
+  postcode: 75272
+  city: Uppsala
+  country: Sweden
+About: An organized professional with 4 years of proven teaching, guidance and counseling skills.
+Strong multitasking ability, recognized for excellent communication skills and self motivated. 
+Inquisitive learner for learning new things specially progamming.
 
 # needed for travis-ci build
 exclude: [vendor]

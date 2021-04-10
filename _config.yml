@@ -18,18 +18,14 @@ title: Abiy Mesfin's Resume
 name: Abiy Bekele
 email: abiymesfin916@gmail.com
 email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
+website: https://abiyp.github.io/Abiy/
 github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+tel: +46722845794
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: Trollvägen 17
+  postcode: 17 670
+  city: Stockholm
+  country: Sweden
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build

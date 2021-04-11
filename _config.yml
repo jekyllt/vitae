@@ -30,7 +30,7 @@ address:
   postcode: 75272
   city: Uppsala
   country: Sweden
-About: An organized professional with 4 years of proven teaching, guidance and counseling skills. Strong multitasking ability, recognized for excellent communication skills and self motivated. Inquisitive learner for learning new things specially progamming.
+  
 google_analytics: UA-69300817-1
 # needed for travis-ci build
 exclude: [vendor]

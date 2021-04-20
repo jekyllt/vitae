@@ -14,22 +14,22 @@ author: Fábio Madeira
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
+title: Wai Kit Chan's Resume
+name: Wai Kit Chan
+email: mariocwk@gmail.com
 email_full: mailto:youremail@me.com
 website: github.io/sustain
 website_full: https://jekyller.github.io/sustain
 github: trending
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
+tel: +49 0178 815 2626
+tel_full: tel:+4901788152626
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: Volkartstr. 84
+  postcode: 80636
+  city: Munich
+  country: Germany
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build

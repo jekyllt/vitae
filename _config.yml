@@ -17,14 +17,12 @@ baseurl: /vitae/
 title: Wai Kit Chan's Resume
 name: Wai Kit Chan
 email: mariocwk@gmail.com
-email_full: mailto:youremail@me.com
-website: https://github.com/mario-852
-website_full: https://jekyller.github.io/sustain
-github: trending
-twitter: twitter
+email_full: mailto:mariocwk@gmail.com
+website: github.com/mario-852
+website_full: https://github.com/mario-852
 tel: +49 0178 815 2626
 tel_full: tel:+4901788152626
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+google_maps: 'https://www.google.co.uk/maps/place/Volkartstra%C3%9Fe+84,+80636+M%C3%BCnchen/@48.1593774,11.5412617,17z/data=!3m1!4b1!4m5!3m4!1s0x479e766d69eac07f:0x9f1ba6dafba2305b!8m2!3d48.1593738!4d11.5434504'
 address:
   street: Volkartstr. 84
   postcode: 80636

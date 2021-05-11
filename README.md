@@ -1,7 +1,8 @@
-
 # Vitae
 
-[![Build Status](https://secure.travis-ci.org/jekyller/vitae.png?branch=gh-pages)](http://travis-ci.org/jekyller/vitae)
+![Build Status](https://github.com/jekyller/vitae/actions/workflows/jekyll_build.yml/badge.svg)
+[![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyller/vitae)
+[![Jekyll](https://img.shields.io/badge/jekyll-3.9.0-blue.svg?style=flat)](http://travis-ci.org/jekyller/vitae)
 
 Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
 Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
@@ -25,7 +26,7 @@ Edit the site attributes in *_config.yml* and edit the various entries in *_incl
 
 ## Issues and contributing
 
-I have tested this install with Ruby v2.4.2p198 (Mac OS RVM) and Jekyll v3.6.2. If you run into any problems please log them on the [issue tracker](https://github.com/jekyller/vitae/issues).
+This install builds well with Ruby v2.6.3 and Jekyll v3.9.0. If you run into any problems please log them on the [issue tracker](https://github.com/jekyller/vitae/issues).
 
 Feel free pull-request your patches and fixes.
 

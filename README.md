@@ -1,8 +1,8 @@
 # Vitae
 
-[![Build Status](https://github.com/jekyller/vitae/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyller/vitae/actions/workflows/jekyll_build.yml)
-[![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyller/vitae)
-[![Jekyll](https://img.shields.io/badge/jekyll-3.9.0-blue.svg?style=flat)](http://travis-ci.org/jekyller/vitae)
+[![Build Status](https://github.com/jekyllt/vitae/actions/workflows/jekyll_build.yml/badge.svg)](https://github.com/jekyllt/vitae/actions/workflows/jekyll_build.yml)
+[![Ruby](https://img.shields.io/badge/ruby-2.6.3-blue.svg?style=flat)](http://travis-ci.org/jekyllt/vitae)
+[![Jekyll](https://img.shields.io/badge/jekyll-3.9.0-blue.svg?style=flat)](http://travis-ci.org/jekyllt/vitae)
 
 Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
 Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
@@ -11,12 +11,12 @@ hosted in [Github pages](https://pages.github.com/).
 
 ## View the live demo
 
-[Vitae Live Demo](https://jekyller.github.io/vitae)
+[Vitae Live Demo](https://jekyllt.github.io/vitae)
 
 
 ## Screenshots
 
-![resume page](https://raw.githubusercontent.com/jekyller/vitae/gh-pages/assets/images/vitae_screen.png)
+![resume page](https://raw.githubusercontent.com/jekyllt/vitae/gh-pages/assets/images/vitae_screen.png)
 
 
 ### Deployment
@@ -41,7 +41,7 @@ For option **2)** simply clone this repository (*master branch*), and then run
 `bundle exec jekyll serve` inside the directory. Upload the resulting `_site/` (or `../vitae-pages/`)
 contents to your repository (*master branch* if uploading as your personal page
 (e.g. username.github.io) or *gh-pages branch* if uploading as a project page
-(as for the [demo](https://github.com/jekyller/vitae/tree/gh-pages)).
+(as for the [demo](https://github.com/jekyllt/vitae/tree/gh-pages)).
 
 For option **3)** you will need to set up travis-ci for your personal fork. Briefly all you
 need then is to change your details in *[\_config.yml](_config.yml)* so that you can push
@@ -56,7 +56,7 @@ issues (see below about issue tracking).
 
 ## Issues and contributing
 
-This install builds well with Ruby v2.6.3 and Jekyll v3.9.0. If you run into any problems please log them on the [issue tracker](https://github.com/jekyller/vitae/issues).
+This install builds well with Ruby v2.6.3 and Jekyll v3.9.0. If you run into any problems please log them on the [issue tracker](https://github.com/jekyllt/vitae/issues).
 
 Feel free pull-request your patches and fixes.
 

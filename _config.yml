@@ -13,24 +13,25 @@ author: Fábio Madeira
 # edit this section with your information
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://jekyllt.github.io/sustain
-github: trending
-twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+baseurl: /
+title: Gwanho Kim's Resume
+name: Gwanho Kim
+email: khkim6040@gmail.com
+email_full: khkim6040@gmail.com
+website: blog.naver/ho0ou
+website_full: https://blog.naver.com/ho0ou
+github: https://github.com/khkim6040/
+twitter: 
+tel: 
+tel_full: 
+google_maps: https://maps.app.goo.gl/hcjdDfvPjHkKyxS67 
+# 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
-google_analytics: UA-69300817-1
+  street: 
+  postcode: 
+  city: Pohang
+  country: Republic of South Korea
+google_analytics: 
 
 # needed for travis-ci build
 exclude: [vendor]
